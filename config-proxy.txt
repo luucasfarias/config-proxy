@@ -1,0 +1,3 @@
+proxy=htt://proxy.ceuma.edu.br:3128
+proxy_username=5114
+proxy_password=122114
