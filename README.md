@@ -35,9 +35,9 @@ Senha: sua_senha
 OBS: Para aplicar a configuração digite 1, qualquer outro digito o programa cancelará a configuração.
 
 
-## Contributing
+## Contribua
 
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
+Para contribuir com o projeto basta fazer um fork do repositório e implementar o que julgar necessário para a evolução deste script de automação.
 
 
 ## Authors
